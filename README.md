@@ -20,6 +20,7 @@ Aimed this project to tell a story about the titles on Netflix and the Country i
 - Excel 
 - Tableau 
 - Immersion Analytics 
+- AI
 - Oculus Quest 
 
 ### Features
@@ -30,7 +31,10 @@ Aimed this project to tell a story about the titles on Netflix and the Country i
 
 
 ### Screenshots 
-[Tableau Dashboard]<img width="678" alt="Tableau Dashboard" src="https://user-images.githubusercontent.com/71461886/166571067-5f17b963-74ee-48d0-929c-e0807fa5eae7.png">
+[Tableau Dashboard]<img width="1026" alt="Tableau Dashboard" src="https://user-images.githubusercontent.com/71461886/166571754-9a5741bd-f8e5-474f-887f-ef847d8e3bbb.png">
+
+
+
 [3D Graph]<img width="678" alt="3D Graph" src="https://user-images.githubusercontent.com/71461886/166571067-5f17b963-74ee-48d0-929c-e0807fa5eae7.png">
 
 ### Project Status
