@@ -36,6 +36,7 @@ Aimed this project to tell a story about the titles on Netflix and the Country i
 
 
 [3D Graph]
+
 <img width="678" alt="3D Graph" src="https://user-images.githubusercontent.com/71461886/166571067-5f17b963-74ee-48d0-929c-e0807fa5eae7.png">
 
 ### Project Status
@@ -43,4 +44,4 @@ Aimed this project to tell a story about the titles on Netflix and the Country i
 
 ### Contact 
 Shae O'Neil 
-shaeoneil26@gmail.com
+- shaeoneil26@gmail.com
